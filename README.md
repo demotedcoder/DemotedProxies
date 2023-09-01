@@ -2,7 +2,7 @@
 
 ## Installation & Usage
 
-Required: nmap (the tool used for checking the proxies)
+Required: nmap (the tool used for checking the proxies) & curl (scraping)
 
 ```bash
 git clone https://github.com/demotedcoder/DemotedProxies.git && cd DemotedProxies
