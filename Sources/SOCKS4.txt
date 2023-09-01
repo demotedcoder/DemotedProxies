@@ -1,0 +1,12 @@
+https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4
+https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4
+https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4&country=all
+https://api.openproxylist.xyz/socks4.txt
+https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks4.txt
+https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/socks4.txt
+https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks4.txt
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks4.txt
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks4.txt
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS4_RAW.txt
+https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks4.txt
+https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS4.txt

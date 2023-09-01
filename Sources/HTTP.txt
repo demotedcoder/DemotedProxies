@@ -1,0 +1,13 @@
+https://api.proxyscrape.com/?request=displayproxies&proxytype=http
+https://api.openproxylist.xyz/http.txt
+https://api.proxyscrape.com/?request=displayproxies&protocol=http
+https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http
+https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/HTTP.txt
+https://raw.githubusercontent.com/mmpx12/proxy-list/master/http.txt
+https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt
+https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/http.txt
+https://raw.githubusercontent.com/TheSpeedX/SOCKS-List/master/http.txt
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt
+https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-http.txt
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/HTTPS_RAW.txt
+https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt

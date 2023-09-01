@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/B4RC0DE-TM/proxy-list/main/SOCKS5.txt
+https://raw.githubusercontent.com/manuGMG/proxy-365/main/SOCKS5.txt
+https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt
+https://raw.githubusercontent.com/monosans/proxy-list/main/proxies_anonymous/socks5.txt
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt
+https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt
+https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
+https://api.openproxylist.xyz/socks5.txt
+https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5
+https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5&timeout=10000&country=all&simplified=true
